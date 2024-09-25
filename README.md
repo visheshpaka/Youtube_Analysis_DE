@@ -27,3 +27,6 @@ https://www.kaggle.com/datasets/datasnaek/youtube-new
 
 ## Architecture Diagram
 <img src="architecture.jpeg">
+
+## Analysis Dashboard
+<img src="Youtube_Analysis.jpg">
